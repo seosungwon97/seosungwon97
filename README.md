@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# CNN Study
+
+## AlexNet - 220420
+Issue - Learning Rate
+
+
+
+
 <!--
 **seosungwon97/seosungwon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
